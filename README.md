@@ -1,2 +1,2 @@
-# Linkedtree clone
+# Linktree clone
  
